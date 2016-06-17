@@ -1,0 +1,5 @@
+C:\Users\Rafael\Documents\PSoC Creator\Workspace01\MicroFluidics.cydsn\MicroFluidics.cyprj|e97d4040-f1cf-47d6-b192-3302b5916873
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7b4a9678-cc48-4bbd-9ef4-768ccc49f9e9
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e3820c11-33f3-43d4-89ce-344e7c0971e0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|649b6a43-abef-4354-9f66-468ea6b47e17
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|943e5fc1-7d79-49bb-a905-125c1469deca
